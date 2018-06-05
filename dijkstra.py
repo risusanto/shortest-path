@@ -1,3 +1,4 @@
+#dijkstra algorithm
 def dijkstra(graph,src):
     length = len(graph)
     nodes = [i for i in range(length)]

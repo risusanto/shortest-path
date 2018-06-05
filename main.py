@@ -1,3 +1,4 @@
+#main code: dijkstra algorithm
 from dijkstra import dijkstra
 
 graph_list = [   
